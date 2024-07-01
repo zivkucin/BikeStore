@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="{A9870ADB-9551-4E40-8F0F-BAAB4B17D7ED}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BikeStoreBackend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CheckoutApiController.cs">
+    <Files>
+      <File FileName="Profiles/ShippingInfoProfile.cs" />
+      <File FileName="DTOs/CreateDto/ShippingInfoDto.cs" />
+      <File FileName="Data/UserRepo.cs" />
+      <File FileName="Controllers/UserController.cs" />
+      <File FileName="Data/IUserRepo.cs" />
+      <File FileName="Controllers/ShippinginfoController.cs" />
+      <File FileName="Data/ShippingInfoRepo.cs" />
+      <File FileName="Data/IShippingInfoRepo.cs" />
+      <File FileName="DTOs/ReadDto/ShippingInfoReadDto.cs" />
+      <File FileName="DTOs/CreateDto/ManufacturerDto.cs" />
+      <File FileName="Controllers/ProductController.cs" />
+      <File FileName="DTOs/UpdateDto/UserUpdateDto.cs" />
+      <File FileName="Models/User.cs" />
+      <File FileName="Models/Product.cs" />
+      <File FileName="Data/ProductRepo.cs" />
+      <File FileName="DTOs/ProductResponse.cs" />
+      <File FileName="Controllers/CategoryController.cs" />
+      <File FileName="Controllers/ManufacturerController.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/OrderController.cs" />
+      <File FileName="Models/OrderStatus.cs" />
+      <File FileName="Controllers/PaymentController.cs" />
+      <File FileName="Models/UserRole.cs" />
+      <File FileName="DTOs/CreateDto/ProductDto.cs" />
+      <File FileName="DTOs/UpdateDto/CategoryUpdateDto.cs" />
+      <File FileName="DTOs/UpdateDto/ManufacturerUpdateDto.cs" />
+      <File FileName="DTOs/UpdateDto/OrderItemUpdateDto.cs" />
+      <File FileName="DTOs/UpdateDto/PaymentUpdateDto.cs" />
+      <File FileName="DTOs/UpdateDto/ProductUpdateDto.cs" />
+      <File FileName="DTOs/UpdateDto/ShippingInfoUpdateDto.cs" />
+      <File FileName="DTOs/ReadDto/CategoryReadDto.cs" />
+      <File FileName="DTOs/CreateDto/CategoryDto.cs" />
+      <File FileName="DTOs/ReadDto/ProductReadDto.cs" />
+      <File FileName="Models/Order.cs" />
+      <File FileName="DTOs/UpdateDto/OrderUpdateDto.cs" />
+      <File FileName="Data/OrderItemsRepo.cs" />
+      <File FileName="Controllers/OrderitemsController.cs" />
+      <File FileName="DTOs/ReadDto/OrderItemReadDto.cs" />
+      <File FileName="DTOs/ReadDto/OrderReadDto.cs" />
+      <File FileName="Models/PostgresContext.cs" />
+      <File FileName="Data/OrderRepo.cs" />
+      <File FileName="Data/IOrderRepo.cs" />
+      <File FileName="Data/IProductRepo.cs" />
+      <File FileName="Controllers/CheckoutApiController.cs" Line="54" Column="53" />
+      <File FileName="Properties/launchSettings.json" Line="16" Column="47" />
+      <File FileName="appsettings.json" />
+      <File FileName="Models/CheckoutOrderResponse.cs" />
+      <File FileName="DTOs/LineItemsDto.cs" Line="1" Column="1" />
+      <File FileName="DTOs/CreateDto/PaymentDto.cs" />
+      <File FileName="Data/ICategoryRepo.cs" />
+      <File FileName="Data/CategoryRepo.cs" />
+      <File FileName="Profiles/ProductProfile.cs" />
+      <File FileName="Profiles/CategoryProfile.cs" />
+      <File FileName="Controllers/AuthController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BikeStoreBackend" expanded="True">
+            <Node name="BikeStoreBackend" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CheckoutApiController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
